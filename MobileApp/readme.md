@@ -12,5 +12,9 @@ this is only done once.
 Once the expo has started select connection **LAN** the scan the barcode on your expo app.
 make sure both the laptop and the phone are on the same local network.
 
+## Replace the IP Address
+
+find your local network ip address, and replace it **src/screens/home.screen.tsx** at line *24*
+
 # NB. You can use **npm** if you don't have yarn
 
