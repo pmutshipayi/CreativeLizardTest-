@@ -1,7 +1,13 @@
-# Awesome Project Build with TypeORM
+## How to install the app
 
-Steps to run this project:
 
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+1. Run `yarn` command this will install all packages required to run the app
+
+this is only done once.
+
+## How to run the app
+
+1. Run `yarn start`command
+
+
+# NB. You can use **npm** if you don't have yarn
